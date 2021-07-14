@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ikalmykia
 - 👀 I’m interested in 1c
 - 🌱 I’m currently learning 1c
 - 💞️ I’m looking to collaborate on ...
